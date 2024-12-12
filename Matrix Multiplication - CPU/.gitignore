@@ -1,0 +1,12 @@
+# in case your put ssh key here
+*.pem
+
+*.o
+*.out
+
+# exe
+benchmark-blas
+benchmark-blislab
+benchmark-naive
+
+.vscode
